@@ -30,9 +30,9 @@
  - [Flip (Lights Out)](https://github.com/SMSadegh19/ThinkingPuzzlesSolutions/tree/master/Flip%20%28Lights%20Out%29)
 
 ## نحوه مشارکت
-- ابتدا باید این ریپازیتوری را fork کنید.
-- سپس باید  pull request به این ریپازیتوری بزنید.
--  کامیت شما باید به فرمت زیر باشد:
+ - ابتدا باید این ریپازیتوری را fork کنید.
+ - سپس باید  pull request به این ریپازیتوری بزنید.
+ -  کامیت شما باید به فرمت زیر باشد:
 
 ```
 “[Folder] commit message”
@@ -53,4 +53,16 @@ Folder: {Loopy, Flip, Light Up, ...}
 
 ## ✍️ مشارکت‌کنندگان
 افراد زیر (به ترتیب حروف الفبا) در توسعه‌ی این پروژه مشارکت کرده‌اند:
-- [SMSadegh19](https://github.com/SMSadegh19)
+ - [SMSadegh19](https://github.com/SMSadegh19)
+
+
+## بازی‌های پیشنهادی جهت اضافه شدن
+این بازی‌ها پتانسیل این را دارند که به این مجموعه اضافه شوند:
+ - https://en.wikipedia.org/wiki/Slitherlink
+ - Loopy (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/loopy.html)
+ - https://puzzling.stackexchange.com/questions/47124/what-is-the-strategy-to-solve-simon-tathams-twiddle
+ - https://puzzling.stackexchange.com/
+ - Light Up (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/lightup.html)
+ - Pattern (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/pattern.html)
+ - Unruly (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html)
+ - https://www.wikihow.com/Solve-Slide-Puzzles
