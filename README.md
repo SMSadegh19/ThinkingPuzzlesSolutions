@@ -67,3 +67,4 @@ Folder: {Loopy, Flip, Light Up, ...}
  - Unruly (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html)
  - https://www.wikihow.com/Solve-Slide-Puzzles
  - Bridges (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/bridges.html)
+ - Jelly (https://avorobey.github.io/jelly/)
