@@ -68,3 +68,4 @@ Folder: {Loopy, Flip, Light Up, ...}
  - https://www.wikihow.com/Solve-Slide-Puzzles
  - Bridges (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/bridges.html)
  - Jelly (https://avorobey.github.io/jelly/)
+ - Nim and Nim-like games
