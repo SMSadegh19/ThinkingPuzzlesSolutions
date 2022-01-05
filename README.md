@@ -72,3 +72,4 @@ Folder: {Loopy, Flip, Light Up, ...}
  - Nim and Nim-like games
  - Baba is you (https://store.steampowered.com/app/736260/Baba_Is_You/)
  - Some other JavaScript games (https://www.math.ucla.edu/~tom/Games/CONTENTS.html)
+ - under 13KBs JavaScript games [here](https://virgool.io/@mtprogramming/%D8%AC%D8%B0%D8%A7%D8%A8-%D9%88-%D8%A7%D8%B9%D8%AA%DB%8C%D8%A7%D8%AF%D8%A2%D9%88%D8%B1-%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%B1-13-%DA%A9%DB%8C%D9%84%D9%88%D8%A8%D8%A7%DB%8C%D8%AA%DB%8C-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA%DB%8C-mf47gwq7qjei) and [here](https://js13kgames.com/).
