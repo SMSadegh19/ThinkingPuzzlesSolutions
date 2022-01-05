@@ -9,6 +9,9 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![Github Stars](https://img.shields.io/github/stars/SMSadegh19/ThinkingPuzzlesSolutions?style=social)]([https://](https://github.com/SMSadegh19/ThinkingPuzzlesSolutions/stargazers))
 
+ 
+<img src="https://visitor-badge.glitch.me/badge?page_id=SMSadegh19/ThinkingPuzzlesSolutions">
+ 
 </div>
 
 
