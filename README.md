@@ -70,3 +70,5 @@ Folder: {Loopy, Flip, Light Up, ...}
  - Bridges (https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/bridges.html)
  - Jelly (https://avorobey.github.io/jelly/)
  - Nim and Nim-like games
+ - Baba is you (https://store.steampowered.com/app/736260/Baba_Is_You/)
+ - Some other JavaScript games (https://www.math.ucla.edu/~tom/Games/CONTENTS.html)
