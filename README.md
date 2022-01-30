@@ -57,7 +57,8 @@ Folder: {Loopy, Flip, Light Up, ...}
 
 ## ✍️ مشارکت‌کنندگان
 افراد زیر (به ترتیب حروف الفبا) در توسعه‌ی این پروژه مشارکت کرده‌اند:
- - [SMSadegh19](https://github.com/SMSadegh19)
+ -  [AlieNiT](https://github.com/AlieNiT)
+ -  [SMSadegh19](https://github.com/SMSadegh19)
 
 
 ## بازی‌های پیشنهادی جهت اضافه شدن
