@@ -91,9 +91,7 @@ ___
  <img src="img_7.png" alt="drawing" width="650"/>
 </p>
 
-معادله بدست آمده یک [دستگاه معادلات خطی](https://fa.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87_%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA_%D8%AE%D8%B7%DB%8C) است که برای حل آن الگوریتم های بسیاری وجود دارد که از جمله آنها می توان به روش [حذف گاوسی](https://fa.wikipedia.org/wiki/%D8%AD%D8%B0%D9%81_%DA%AF%D8%A7%D9%88%D8%B3%DB%8C) اشاره کرد.
-
-### چه حالاتی غیرقابل هستند؟ 
+معادله بدست آمده یک [دستگاه معادلات خطی](https://fa.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87_%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA_%D8%AE%D8%B7%DB%8C) است که برای حل آن الگوریتم های بسیاری وجود دارد که از جمله آنها می توان به روش [حذف گاوسی](https://fa.wikipedia.org/wiki/%D8%AD%D8%B0%D9%81_%DA%AF%D8%A7%D9%88%D8%B3%DB%8C) اشاره کرد. 
 
 ## لینک منابع مفید
  - https://gaming.stackexchange.com/questions/11123/strategy-for-solving-lights-out-puzzle
